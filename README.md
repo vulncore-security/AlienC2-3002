@@ -1,10 +1,10 @@
 # AlienC2-3002: Advanced Command & Control Framework
 
-![AlienC2-3002 Logo](public/images/alien-c2-logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vulncore-security/AlienC2-3002/refs/heads/main/7ed1db11-97e8-4a53-ae44-08a356ec3a30_removalai_preview.png" alt="AlienC2-3002 Logo">
+</p>
 
 ## ⚠️ DEVELOPMENT VERSION - NOT FOR PRODUCTION USE ⚠️
-
-AlienC2-3002 is a sophisticated Command & Control (C2) framework designed for red team operations and security assessments. This project is currently in **active development** and should be considered **experimental**.
 
 ## Default Credentials
 
